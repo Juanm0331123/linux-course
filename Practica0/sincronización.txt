@@ -1,0 +1,16 @@
+Dentro de la máquina virtual (cliente o servidor)
+ls -l /vagrant
+
+Dentro de la carpeta donde está el Vagrantfile
+
+echo "Prueba de sincronización" > prueba.txt
+entro de la máquina virtual, en este caso pruebo en cliente
+
+
+
+
+
+echo "Archivo creado en la VM" > /vagrant/desde_vm.txt
+
+Desde mi pc cat desde_vm.txt
+
