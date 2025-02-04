@@ -1,3 +1,4 @@
+Prueba de sincronización
 Dentro de la máquina virtual (cliente o servidor)
 ls -l /vagrant
 
@@ -13,4 +14,3 @@ entro de la máquina virtual, en este caso pruebo en cliente
 echo "Archivo creado en la VM" > /vagrant/desde_vm.txt
 
 Desde mi pc cat desde_vm.txt
-
